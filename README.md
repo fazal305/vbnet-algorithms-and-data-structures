@@ -1,38 +1,64 @@
-# A-Levels Codes Collection
+# VB.NET Algorithms and Data Structures
 
-A professionalized collection of beginner VB.NET and .NET console projects focused on programming fundamentals, data structures, algorithms, OOP, and string manipulation.
+A collection of beginner-friendly VB.NET console programs covering algorithms, data structures, object-oriented programming, recursion, calculators, and string manipulation practice.
 
-## Topics Covered
+## Live Links
 
-- Data Structures
-- Algorithms
-- Queue & Stack Logic
-- String Manipulation
-- Object-Oriented Programming
-- Recursion
-- Console Applications
-- User Defined Types
+- GitHub Repository: https://github.com/fazal305/vbnet-algorithms-and-data-structures
+- Live Demo: Not applicable. This repository contains console-based VB.NET learning projects.
+
+## Overview
+
+This repository collects small Visual Basic .NET exercises built while practicing programming fundamentals. Each folder focuses on one topic, making the repo useful as a revision archive, learning reference, and early programming portfolio project.
+
+The code is intentionally simple and beginner-readable. The goal is to show core logic clearly rather than hide it behind advanced tooling.
+
+## Features
+
+- Linear search and binary search examples
+- Bubble sort and insertion sort examples
+- Stack, queue, linked list, hashtable, dictionary, and binary tree practice
+- Recursion and recursive procedure examples
+- Calculator and scientific calculator console programs
+- String manipulation exercises
+- Student and contact data model examples
+- Small real-world practice tasks such as discounts, grades, meals count, sensor readings, and customer points
 
 ## Tech Stack
 
-- VB.NET
-- .NET 6 / .NET 8
+- Visual Basic .NET
+- .NET 8
 - Visual Studio
+- Console applications
 
-## Structure
+## Folder Structure
 
-Projects were cleaned and reorganized for GitHub readability:
-- Reduced deeply nested folders
-- Removed build artifacts
-- Renamed generic folders/projects
-- Added standard repository files
-
-## How To Run
-
-1. Open any `.vbproj` file in Visual Studio
-2. Build the solution
-3. Run the console application
-
-## License
-
-MIT License
+```text
+vbnet-algorithms-and-data-structures/
+  README.md
+  LICENSE
+  Queue.sln
+  Queue.vbproj
+  code in vs for number of jobs.vb
+  binary-search/
+  binary-tree/
+  bubble-sort/
+  calculator/
+  classes-for-lessons/
+  classes-for-library-renting-system/
+  customer-point-card/
+  dictionary/
+  discount-on-goods-more-than-a-limit/
+  grade-calculator/
+  hashtable/
+  linear-search/
+  linked-list/
+  loop-for-readings-in-sensor-and-warnings/
+  procedure-mealscount/
+  queue-implementation/
+  recursion/
+  recursive-procedure/
+  scientific-calculator/
+  stacks/
+  string-manipulation/
+  student-data-model/
